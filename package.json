@@ -1,0 +1,15 @@
+{
+  "name": "visa-guide",
+  "version": "1.0.0",
+  "description": "出国签证信息导览 — 打工度假、留学、数字游民、移民签证一站式查询",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
