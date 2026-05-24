@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://qianxun.preview.aliyun-zeabur.cn/sitemap.xml
